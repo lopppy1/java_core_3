@@ -93,6 +93,7 @@ public class Lesson1 {
         //убрать лишние пробелы в конце и начале строки
         String word3 ="  s         word     ";
         System.out.println(word3.trim());
+        System.out.println("новые изменения");
 
 
     }
